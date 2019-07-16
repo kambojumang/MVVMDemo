@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MVVM Sample App</string>
+
+    <string name="loading_projects">Chargement des projets ...</string>
+    <string name="projects_list">Liste de projets</string>
+    <string name="project_name">Nom du projet</string>
+    <string name="google_github_projects">Google GitHub Projects</string>
+    <string name="project_list">Liste de projets</string>
+    <string name="languages">Langages: %s</string>
+    <string name="watchers">Observateurs: %s</string>
+    <string name="openIssues">Questions ouvertes: %s</string>
+    <string name="created_at">Créé à: %s</string>
+    <string name="updated_at">Mis à jour à: %s</string>
+    <string name="clone_url">URL de clonage: %s</string>
+    <string name="project_language">Langue du projet</string>
+    <string name="project_watchers">Observateurs de projets</string>
+    <string name="project_description">Description du projet</string>
+    <string name="open_issues">Questions ouvertes</string>
+    <string name="loading_project">Chargement du projet ...</string>
+</resources>
